@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi Gang! I'm Ell👋
 
+![zidynel](img/bannergithub.jpg)
 <!--
 **yazz05/yazz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About Me**
+🎓 Informatics Student
+💻 Interested in Web Development & Game Development
+🔥 Learning Laravel & Filament
+📚 Exploring Backend & Frontend Development
+🎯 Goal: Become a Professional Software Engineer
