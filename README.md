@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 **About Me**
-🎓 Informatics Student
-💻 Interested in Web Development & Game Development
-🔥 Learning Laravel & Filament
-📚 Exploring Backend & Frontend Development
-🎯 Goal: Become a Professional Software Engineer
+- 🎓 Informatics Student
+- 💻 Interested in Web Development & Game Development
+- 🔥 Learning Laravel & Filament
+- 📚 Exploring Backend & Frontend Development
+- 🎯 Goal: Become a Professional Software Engineer
